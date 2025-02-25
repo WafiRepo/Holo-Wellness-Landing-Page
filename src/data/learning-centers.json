@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Articles",
+    "slug": "articles",
+    "description": "Dive into AI-driven wellness topics, posture optimization insights, and exercise management best practices tailored to help you stay active and healthy."
+  },
+  {
+    "name": "Case Studies",
+    "slug": "case-studies",
+    "description": "Discover real-world success stories showcasing how our on-device AI, personalized exercise plans, and consultation features have transformed users’ fitness journeys."
+  },
+  {
+    "name": "Scientific Papers",
+    "slug": "papers",
+    "description": "Explore peer-reviewed research and technical documents detailing our continuous advancements in movement tracking, posture analysis, and innovative fitness algorithms."
+  },
+  {
+    "name": "eBooks",
+    "slug": "ebooks",
+    "description": "Access comprehensive guides covering topics like effective injury prevention, inflammaging risk mitigation, and holistic exercise routines supported by our AI platform."
+  },
+  {
+    "name": "Testimonials",
+    "slug": "testimonials",
+    "description": "Read firsthand accounts from individuals and experts who have harnessed Holo Wellness features—such as personalized coaching and real-time exercise feedback—to reach their health goals."
+  }
+]
