@@ -1,116 +1,116 @@
 [
   {
     "name": "Member Experience",
-    "description": "Enhance your wellness journey with a user-friendly interface, AI-driven posture analysis, and interactive exercise tracking. Earn credits by completing workouts, set personal goals, and access curated health articles. Our tiered subscription model and consultation options ensure you have the support and flexibility you need for an unparalleled experience.",
+    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aliquam nulla ab soluta?",
     "slug": "member-experience",
     "image": "/images/member-experience.jpg",
     "contents": [
       {
-        "name": "Personalized Onboarding & Health Profiles",
+        "name": "Lorem ipsum dolor sit amet consectetur",
         "image": "/images/post-injury-rehab.jpg",
-        "content": "Complete a short health and lifestyle questionnaire to help our system tailor recommendations to your needs. We analyze your goals, any existing conditions, and your activity patterns to deliver real-time exercise guidance and relevant health content."
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus, cupiditate et modi possimus doloribus aliquam? Exercitationem, repellendus dolores accusantium delectus ipsa optio consectetur, aliquam autem enim quibusdam eos ea harum ad tenetur dolorum, fuga obcaecati animi vitae ut? Ex esse dicta, ad rem cumque veritatis quod aliquam temporibus mollitia reiciendis quisquam illum adipisci quibusdam! Quas odit unde sit! Quos architecto obcaecati unde rerum nihil?"
       },
       {
-        "name": "AI-Powered Exercise Tracking & Credits",
+        "name": "Lorem ipsum dolor sit amet consectetur",
         "image": "/images/special-population-exercise.jpg",
-        "content": "Our on-device AI detects 33+ key points to classify movements in real time, providing immediate voice feedback and posture corrections. As you finish exercises, you can earn credits and unlock achievements to stay motivated and chart your progress."
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus, cupiditate et modi possimus doloribus aliquam? Exercitationem, repellendus dolores accusantium delectus ipsa optio consectetur, aliquam autem enim quibusdam eos ea harum ad tenetur dolorum, fuga obcaecati animi vitae ut? Ex esse dicta, ad rem cumque veritatis quod aliquam temporibus mollitia reiciendis quisquam illum adipisci quibusdam! Quas odit unde sit! Quos architecto obcaecati unde rerum nihil?"
       },
       {
-        "name": "Consultation Booking & Subscription Plans",
+        "name": "Lorem ipsum dolor sit amet consectetur",
         "image": "/images/digital-consultant.webp",
-        "content": "Whether you opt for the free tier or a premium subscription, you can easily book virtual or in-person consultations with trainers, physiotherapists, or nutritionists. Share your exercise logs and receive personalized advice to optimize your routine."
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus, cupiditate et modi possimus doloribus aliquam? Exercitationem, repellendus dolores accusantium delectus ipsa optio consectetur, aliquam autem enim quibusdam eos ea harum ad tenetur dolorum, fuga obcaecati animi vitae ut? Ex esse dicta, ad rem cumque veritatis quod aliquam temporibus mollitia reiciendis quisquam illum adipisci quibusdam! Quas odit unde sit! Quos architecto obcaecati unde rerum nihil?"
       }
     ]
   },
   {
     "name": "RealMotion Technique ( TBD )",
-    "description": "A next-level approach to dynamic posture and movement analysis, integrating advanced joint detection and rule-based AI for accurate exercise classification. Stay tuned for further enhancements that will expand our real-time correction and predictive analytics.",
+    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aliquam nulla ab soluta?",
     "slug": "tbd",
     "image": "/images/tbd.jpg",
     "contents": [
       {
-        "name": "33-Point Joint Detection & Tracking",
+        "name": "Lorem ipsum dolor sit amet consectetur",
         "image": "/images/post-injury-rehab.jpg",
-        "content": "Using lightweight on-device models, our system captures 33+ key points to precisely identify movement patterns. This data underpins features like instant feedback, posture scoring, and multi-angle range-of-motion tracking."
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus, cupiditate et modi possimus doloribus aliquam? Exercitationem, repellendus dolores accusantium delectus ipsa optio consectetur, aliquam autem enim quibusdam eos ea harum ad tenetur dolorum, fuga obcaecati animi vitae ut? Ex esse dicta, ad rem cumque veritatis quod aliquam temporibus mollitia reiciendis quisquam illum adipisci quibusdam! Quas odit unde sit! Quos architecto obcaecati unde rerum nihil?"
       },
       {
-        "name": "Dynamic Posture & Movement Classification",
+        "name": "Lorem ipsum dolor sit amet consectetur",
         "image": "/images/special-population-exercise.jpg",
-        "content": "Beyond static alignment, the RealMotion Technique classifies entire movement sequences—such as squats, lunges, or upper-limb exercises—spotting potential issues like imbalances or unsafe joint angles before they turn into injuries."
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus, cupiditate et modi possimus doloribus aliquam? Exercitationem, repellendus dolores accusantium delectus ipsa optio consectetur, aliquam autem enim quibusdam eos ea harum ad tenetur dolorum, fuga obcaecati animi vitae ut? Ex esse dicta, ad rem cumque veritatis quod aliquam temporibus mollitia reiciendis quisquam illum adipisci quibusdam! Quas odit unde sit! Quos architecto obcaecati unde rerum nihil?"
       },
       {
-        "name": "Future Expansion & Advanced Analytics",
+        "name": "Lorem ipsum dolor sit amet consectetur",
         "image": "/images/digital-consultant.webp",
-        "content": "We plan to train or integrate additional models for more complex key points and advanced movement tracking. These innovations will power deeper insights, from sub-acute injury prevention to specialized routines for targeted muscle groups."
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus, cupiditate et modi possimus doloribus aliquam? Exercitationem, repellendus dolores accusantium delectus ipsa optio consectetur, aliquam autem enim quibusdam eos ea harum ad tenetur dolorum, fuga obcaecati animi vitae ut? Ex esse dicta, ad rem cumque veritatis quod aliquam temporibus mollitia reiciendis quisquam illum adipisci quibusdam! Quas odit unde sit! Quos architecto obcaecati unde rerum nihil?"
       }
     ]
   },
   {
     "name": "HoloConnect",
-    "description": "HoloConnect links you with health professionals and specialized experts, enabling seamless booking, secure record sharing, and integrated progress tracking. Communicate in-app or via popular messaging platforms, and receive real-time notifications for consultations and follow-ups.",
+    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aliquam nulla ab soluta?",
     "slug": "holoconnect",
     "image": "/images/holoconnect.jpg",
     "contents": [
       {
-        "name": "Expert Directory & Tele-Consultations",
+        "name": "Lorem ipsum dolor sit amet consectetur",
         "image": "/images/post-injury-rehab.jpg",
-        "content": "Browse a wide range of professionals—fitness trainers, physiotherapists, or nutritionists—and schedule virtual or in-person appointments. Share your AI-generated exercise logs so experts can give more accurate guidance on your next steps."
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus, cupiditate et modi possimus doloribus aliquam? Exercitationem, repellendus dolores accusantium delectus ipsa optio consectetur, aliquam autem enim quibusdam eos ea harum ad tenetur dolorum, fuga obcaecati animi vitae ut? Ex esse dicta, ad rem cumque veritatis quod aliquam temporibus mollitia reiciendis quisquam illum adipisci quibusdam! Quas odit unde sit! Quos architecto obcaecati unde rerum nihil?"
       },
       {
-        "name": "Real-Time Notifications & Reminders",
+        "name": "Lorem ipsum dolor sit amet consectetur",
         "image": "/images/special-population-exercise.jpg",
-        "content": "Stay informed about upcoming sessions or newly recommended workout plans. Receive notifications when an expert reviews your data, sends you a comment, or adjusts your exercise recommendations."
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus, cupiditate et modi possimus doloribus aliquam? Exercitationem, repellendus dolores accusantium delectus ipsa optio consectetur, aliquam autem enim quibusdam eos ea harum ad tenetur dolorum, fuga obcaecati animi vitae ut? Ex esse dicta, ad rem cumque veritatis quod aliquam temporibus mollitia reiciendis quisquam illum adipisci quibusdam! Quas odit unde sit! Quos architecto obcaecati unde rerum nihil?"
       },
       {
-        "name": "Health Data Sharing & Collaboration",
+        "name": "Lorem ipsum dolor sit amet consectetur",
         "image": "/images/digital-consultant.webp",
-        "content": "You control how your exercise reports, posture analyses, and personal notes are shared with professionals. Collaborate with a team of experts to fine-tune your routine, get prompt feedback, and achieve your health goals."
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus, cupiditate et modi possimus doloribus aliquam? Exercitationem, repellendus dolores accusantium delectus ipsa optio consectetur, aliquam autem enim quibusdam eos ea harum ad tenetur dolorum, fuga obcaecati animi vitae ut? Ex esse dicta, ad rem cumque veritatis quod aliquam temporibus mollitia reiciendis quisquam illum adipisci quibusdam! Quas odit unde sit! Quos architecto obcaecati unde rerum nihil?"
       }
     ]
   },
   {
     "name": "HoloWellness Asia",
-    "description": "A regional initiative uniting cutting-edge technology and holistic wellness practices. HoloWellness Asia harnesses local expertise, multi-lingual support, and culturally adaptable programs to help people across diverse communities stay active and healthy.",
+    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aliquam nulla ab soluta?",
     "slug": "holowellness-asia",
     "image": "/images/holowellness-asia.jpg",
     "contents": [
       {
-        "name": "Community Outreach & Education",
+        "name": "Lorem ipsum dolor sit amet consectetur",
         "image": "/images/post-injury-rehab.jpg",
-        "content": "Join regional webinars, workshops, and meetups aimed at promoting healthier lifestyles. Learn from experts about safe exercise practices, diet tips, and how best to integrate AI-driven posture analysis into your routine."
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus, cupiditate et modi possimus doloribus aliquam? Exercitationem, repellendus dolores accusantium delectus ipsa optio consectetur, aliquam autem enim quibusdam eos ea harum ad tenetur dolorum, fuga obcaecati animi vitae ut? Ex esse dicta, ad rem cumque veritatis quod aliquam temporibus mollitia reiciendis quisquam illum adipisci quibusdam! Quas odit unde sit! Quos architecto obcaecati unde rerum nihil?"
       },
       {
-        "name": "Localized Health Articles & Multilingual Support",
+        "name": "Lorem ipsum dolor sit amet consectetur",
         "image": "/images/special-population-exercise.jpg",
-        "content": "Access a growing library of health and fitness content in multiple languages. We tailor recommendations for each community, ensuring that you receive relevant tips and culturally aware best practices."
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus, cupiditate et modi possimus doloribus aliquam? Exercitationem, repellendus dolores accusantium delectus ipsa optio consectetur, aliquam autem enim quibusdam eos ea harum ad tenetur dolorum, fuga obcaecati animi vitae ut? Ex esse dicta, ad rem cumque veritatis quod aliquam temporibus mollitia reiciendis quisquam illum adipisci quibusdam! Quas odit unde sit! Quos architecto obcaecati unde rerum nihil?"
       },
       {
-        "name": "Collaborations & Partnerships",
+        "name": "Lorem ipsum dolor sit amet consectetur",
         "image": "/images/digital-consultant.webp",
-        "content": "We partner with clinics, fitness centers, and healthcare providers across Asia to extend specialized services—ranging from chronic disease management to advanced rehabilitative programs—through our integrated AI platform."
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus, cupiditate et modi possimus doloribus aliquam? Exercitationem, repellendus dolores accusantium delectus ipsa optio consectetur, aliquam autem enim quibusdam eos ea harum ad tenetur dolorum, fuga obcaecati animi vitae ut? Ex esse dicta, ad rem cumque veritatis quod aliquam temporibus mollitia reiciendis quisquam illum adipisci quibusdam! Quas odit unde sit! Quos architecto obcaecati unde rerum nihil?"
       }
     ]
   },
   {
     "name": "Inflammaging Prevention",
-    "description": "Focus on reducing chronic, low-grade inflammation that accelerates aging. With our AI-powered exercise guidance and holistic support, you can adopt safe, sustainable routines that aim to alleviate inflammatory triggers and nurture long-term well-being.",
+    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aliquam nulla ab soluta?",
     "slug": "inflammaging-prevention",
     "image": "/images/inflammaging-prevention.jpg",
     "contents": [
       {
-        "name": "Risk Assessment & Early Detection",
+        "name": "Lorem ipsum dolor sit amet consectetur",
         "image": "/images/post-injury-rehab.jpg",
-        "content": "Identify early indicators of inflammaging through posture screening, daily activity tracking, and optional questionnaires. Our system flags potential risks and offers actionable tips to address them proactively."
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus, cupiditate et modi possimus doloribus aliquam? Exercitationem, repellendus dolores accusantium delectus ipsa optio consectetur, aliquam autem enim quibusdam eos ea harum ad tenetur dolorum, fuga obcaecati animi vitae ut? Ex esse dicta, ad rem cumque veritatis quod aliquam temporibus mollitia reiciendis quisquam illum adipisci quibusdam! Quas odit unde sit! Quos architecto obcaecati unde rerum nihil?"
       },
       {
-        "name": "Holistic Lifestyle Guidance",
+        "name": "Lorem ipsum dolor sit amet consectetur",
         "image": "/images/special-population-exercise.jpg",
-        "content": "Beyond exercise routines, our platform connects you with nutritionists, mental wellness experts, and physiotherapists who specialize in controlling chronic inflammation, promoting longevity, and enhancing quality of life."
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus, cupiditate et modi possimus doloribus aliquam? Exercitationem, repellendus dolores accusantium delectus ipsa optio consectetur, aliquam autem enim quibusdam eos ea harum ad tenetur dolorum, fuga obcaecati animi vitae ut? Ex esse dicta, ad rem cumque veritatis quod aliquam temporibus mollitia reiciendis quisquam illum adipisci quibusdam! Quas odit unde sit! Quos architecto obcaecati unde rerum nihil?"
       },
       {
-        "name": "Anti-Inflammatory Exercise Recommendations",
+        "name": "Lorem ipsum dolor sit amet consectetur",
         "image": "/images/digital-consultant.webp",
-        "content": "Receive customized exercise plans designed to improve mobility without overloading your joints. Track improvements in pain levels, swelling, and range of motion via our real-time AI feedback loop."
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus, cupiditate et modi possimus doloribus aliquam? Exercitationem, repellendus dolores accusantium delectus ipsa optio consectetur, aliquam autem enim quibusdam eos ea harum ad tenetur dolorum, fuga obcaecati animi vitae ut? Ex esse dicta, ad rem cumque veritatis quod aliquam temporibus mollitia reiciendis quisquam illum adipisci quibusdam! Quas odit unde sit! Quos architecto obcaecati unde rerum nihil?"
       }
     ]
   }

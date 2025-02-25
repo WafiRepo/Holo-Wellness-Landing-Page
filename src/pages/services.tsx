@@ -37,14 +37,7 @@ function Banner() {
       </div>
       <div className='flex justify-end h-64'>
         <div className='w-1/2 p-6 pl-0'>
-          <p className='w-[32rem]'>
-            At Holo Wellness, we provide a comprehensive suite of AI-enhanced services 
-            designed to support musculoskeletal health, injury prevention, and post-injury 
-            rehabilitation. Whether you’re an individual looking to manage pain or an 
-            employer aiming to boost workforce wellness, our real-time posture detection, 
-            exercise classification, and consultation platforms offer data-driven insights 
-            for safe and effective routines.
-          </p>
+          <p className='w-[32rem]'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium maxime suscipit voluptatem, accusamus sint commodi deleniti fugit quia ducimus odit tempore eos quidem dignissimos?</p>
         </div>
       </div>
     </>
@@ -68,12 +61,13 @@ function IndividualServices({ hash: hashRaw }: ServicesListProps) {
   
   return (
     <div className='py-24 px-28'>
-      <h1 className='text-4xl font-semibold text-primary'>Services for Individuals</h1>
+      <h1 className='text-4xl font-semibold text-primary'>Individual Services</h1>
 
       <div className="flex pt-8">
         <ul className='pr-12 w-[32rem]'>
           {services.map((service) => {
             const isSelected = service.slug === selectedSlug
+            
             return (
               <li
                 key={service.slug} id={service.slug}
@@ -94,9 +88,7 @@ function IndividualServices({ hash: hashRaw }: ServicesListProps) {
             src={selectedService?.image} alt={selectedService?.name}
             className='rounded-2xl object-cover h-[18rem] w-[32rem]'
           />
-          <p className='pt-8 w-[42rem]'>
-            {selectedService?.description}
-          </p>
+          <p className='pt-8 w-[42rem]'>{selectedService?.description}</p>
         </div>
       </div>
     </div>
@@ -117,12 +109,13 @@ function EmployersServices({ hash: hashRaw }: ServicesListProps) {
   
   return (
     <div className='py-24 px-28 bg-neutral-100 pr-48'>
-      <h1 className='text-4xl font-semibold text-primary text-right'>Services for Employers</h1>
+      <h1 className='text-4xl font-semibold text-primary text-right'>Employers Services</h1>
 
       <div className="flex pt-8 flex-row-reverse">
         <ul className='pl-12 w-[32rem]'>
           {services.map((service) => {
             const isSelected = service.slug === selectedSlug
+            
             return (
               <li
                 key={service.slug} id={service.slug}
@@ -143,9 +136,7 @@ function EmployersServices({ hash: hashRaw }: ServicesListProps) {
             src={selectedService?.image} alt={selectedService?.name}
             className='rounded-2xl object-cover h-[18rem] w-[32rem]'
           />
-          <p className='pt-8 w-[42rem]'>
-            {selectedService?.description}
-          </p>
+          <p className='pt-8 w-[42rem]'>{selectedService?.description}</p>
         </div>
       </div>
     </div>
